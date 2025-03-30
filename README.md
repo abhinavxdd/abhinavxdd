@@ -42,5 +42,5 @@
 
 <a href="https://profile-summary-for-github.com/user/abhinavxdd">View Detailed Analysis</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhinavxdd&theme=onedark)](https://github.com/abhinavxdd/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhinavxdd&theme=darkhub)](https://github.com/abhinavxdd/github-profile-trophy)
 
