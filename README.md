@@ -40,7 +40,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavxdd&show_icons=true&theme=dark&locale=en&layout=compact" style="max-width: 100%;">
 </a>
 
-<a href="https://profile-summary-for-github.com/user/abhinavxdd">View Detailed Analysis</a>
+[🔍 View Detailed Analysis](https://profile-summary-for-github.com/user/abhinavxdd)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhinavxdd&theme=darkhub)](https://github.com/abhinavxdd/github-profile-trophy)
 
