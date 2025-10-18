@@ -35,6 +35,9 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="javascript:void(0);">
   <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="max-width: 100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="javascript:void(0);">
+  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="max-width: 100%;">
+</a>
 </p>
 
 
