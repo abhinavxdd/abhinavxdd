@@ -7,8 +7,7 @@
 ###
 
 <p align="left">🎓 I am currently pursuing Bachelor of Technology in ECE from the National Institute of Technology, Hamirpur.
-<br>💻 I am passionate about problem-solving and competitive programming.
-<br>🌱 I am currently learning Full stack Web Development<br>
+<br>💻 I'm a full-stack dev, which means I speak JavaScript to both servers and browsers. I'm also an open-source contributor, where I turn my late-night debugging sessions into someone else's merged PR.<br>
 
 ###
 
@@ -30,12 +29,23 @@
   alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;">
 </a>
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
+<a target="_blank" rel="noopener noreferrer nofollow" href="javascript:void(0);">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="max-width: 100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="javascript:void(0);">
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="max-width: 100%;">
+</a>
 </p>
+
 
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Connect with me on</h3><a id="user-content-we-can--on" class="anchor" aria-label="Permalink: We can 🤝🏻 on" href="#we-can--on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <p dir="auto"><a href="https://www.linkedin.com/in/abh1navvv/" rel="nofollow"><img src="https://camo.githubusercontent.com/9f6439531e12e8474bec4d9461eeae25d4defb3cf1faeeeb5b64ce8ca2911217/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="mailto:abhinav.raj2004.y@gmail.com "><img src="https://camo.githubusercontent.com/7f70363c0558fdfc6e2c8bff3ef00fcd2d6d98caafb8f3f5c2a7d32cd5274e5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265643f267374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-red?&amp;style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
+<a href="mailto:abhinav.raj2004.y@gmail.com "><img src="https://camo.githubusercontent.com/7f70363c0558fdfc6e2c8bff3ef00fcd2d6d98caafb8f3f5c2a7d32cd5274e5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265643f267374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-red?&amp;style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://leetcode.com/u/abh1nav02/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="max-width: 100%;">
+</a>
+</p>
 
 <h3 align="left">⚙️ GitHub Analytics</h3>
 <p align="left">
