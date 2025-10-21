@@ -35,10 +35,10 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 
-<img align="right" width=350px alt="Unicorn" src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif"/>
-
 ###### Database Management:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+<img align="right" width=350px alt="Unicorn" src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif"/>
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
