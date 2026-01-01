@@ -78,11 +78,11 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=abhinavxdd&theme=dark&hide_border=false&cache_bust=1" alt="Abhinav's GitHub Streak">
 </p>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=abhinavxdd&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
-</div>  
+</div>   -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavxdd&bg_color=0d1117&color=ffffff&line=68b5fc&point=ffffff&area=true&hide_border=true" alt="abhinavxdd's contribution graph">
