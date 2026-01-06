@@ -33,12 +33,14 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Socket.io](https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 
 ###### Database Management:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 
 <img align="right" width=350px alt="Unicorn" src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif"/>
 
@@ -77,8 +79,9 @@
 
 ## 🔥 Github Analytics
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhinavxdd&theme=dark&hide_border=false&cache_bust=1" alt="Abhinav's GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavxdd&theme=dark&hide_border=false" alt="Abhinav's GitHub Streak">
 </p>
+
 
 <!-- <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
